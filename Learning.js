@@ -77,5 +77,13 @@ largestOfFour = (arr) => {
 console.log(largestOfFour([[4, 5, 1, 3], [13, 27, 18, 26], [32, 35, 37, 39], [1000, 1001, 857, 1]]));
 */
 
+//Ceasar Cipher
+function ceasar(str, numChange) {
+  let alpha = [a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z]
+  let codedString = '';
+  for (let i = 0; i < str.length; i++) {
+    codedString += str[i]
+  }
+}
 
-
+Test 1
